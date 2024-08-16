@@ -60,9 +60,44 @@
   </a> 
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassanspace&show_icons=true&locale=en&layout=compact" alt="mtalhaofc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassanspace&show_icons=true&locale=en" alt="mtalhaofc" /></p>
+ 📊 GitHub Statistics
+<table>
+<tr>
+<td>
+<a href="https://github.com/Hassanspace/Hassanspace">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassanspace&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="hassan's GitHub Stats" />
+</td>
+<td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanspace&theme=highcontrast&layout=compact" />
+  </a>
+</td>
+</tr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassanspace&" alt="MTalhaofc" /></p>
+<tr>
+<td>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hassanspace"/>
+</td>
+<td>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassanspace"/>
+</td>
+</tr>
 
+<tr>
+<tr>
+        <th colspan="7"><a href="https://github.com/Hassanspace/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+      </tr>
+<td align="center">
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omololevy&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+
+
+</td>
+<td align="center">
+<p align="center">
+</p>
+            <img align="right" alt="Developer hassan" src="code.gif" width="350" height="190" />
+</td>
+</tr>
+</table>
