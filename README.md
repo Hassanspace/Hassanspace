@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)
 <h1 align="center">Hi 👋, I'm Hassan Rasool</h1>
-<h3 align="center">A Software Engineer || Web Developer </h3>
+<h3 align="center">A Software Engineer | Web Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hassanspace&label=Profile%20views&color=0e75b6&style=flat" alt="hassan " /> </p>
 
