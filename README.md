@@ -90,14 +90,14 @@
 <td align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omololevy&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassanspace&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
 
 </td>
 <td align="center">
 <p align="center">
 </p>
-            <img align="right" alt="Developer hassan" src="code.gif" width="350" height="190" />
+            <img align="right" alt="Developer hassan" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350" height="190" />
 </td>
 </tr>
 </table>
