@@ -97,7 +97,7 @@
 <td align="center">
 <p align="center">
 </p>
-            <img align="right" alt="Developer hassan" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif" width="250" height="190" />
+            <img align="right" alt="Developer hassan" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif" width="350" height="190" />
 </td>
 </tr>
 </table>
