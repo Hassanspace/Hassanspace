@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
 
-- 👯 I’m looking to collaborate on **GearNexusWeb**
+- 👯 I’m looking to collaborate 
 
 - 👨‍💻 My Portfolio **Under Deployment**
 
