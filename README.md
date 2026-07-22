@@ -4,14 +4,14 @@
 
 <br/>
 
-<a href="https://github.com/Hassanspace">
+<a href="https://hassansden.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=4A7DBD&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Hassan+Rasool;AI+%2F+Machine+Learning+Engineer;Computer+Vision+%26+Deep+Learning;Full+Stack+Developer+(Django+%2B+React);Building+real-time+AI+systems+that+ship." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/hassanrasool/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://hassansden.netlify.app"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github/hassanspace"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:rasoolhassan027@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Hassanspace"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
