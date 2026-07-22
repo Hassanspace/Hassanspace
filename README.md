@@ -1,103 +1,286 @@
-![MasterHead](https://camo.githubusercontent.com/64fde10e402d3aaab6bdf83b74dd7275e18ec28ba031fa0fdb0c48990ab963d3/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966)
-<h1 align="center">Hi 👋, I'm Hassan Rasool</h1>
-<h3 align="center">A Software Engineer | Web Developer </h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hassanspace&label=Profile%20views&color=0e75b6&style=flat" alt="hassan " /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **MERN STACK**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A7DBD&height=220&section=header&text=Hassan%20Rasool&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
+<br/>
 
-- 👯 I’m looking to collaborate 
+<a href="https://github.com/Hassanspace">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=4A7DBD&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Hassan+Rasool;AI+%2F+Machine+Learning+Engineer;Computer+Vision+%26+Deep+Learning;Full+Stack+Developer+(Django+%2B+React);Building+real-time+AI+systems+that+ship." alt="Typing SVG" />
+</a>
 
-- 👨‍💻 My Portfolio https://hassansden.netlify.app/
+<br/><br/>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind, Node.js**
+<a href="https://linkedin.com/in/hassanrasool/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Hassanspace"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:rasoolhassan027@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Hassanspace"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-- 📫 How to reach me **rasoolhassan027@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hassan-rasool-0b81a3318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hassan Rasool" height="30" width="40" /></a>
-<a href="https://instagram.com/hass_anrasool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan rasool" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Hassan_rasool/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hassan rasool" height="30" width="40" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Hassanspace&style=for-the-badge&color=4A7DBD&label=PROFILE+VIEWS)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
-  </a> 
-</p>
-<br>
+</div>
 
- 📊 GitHub Statistics
+<br/>
+
+## 🧠 About Me
+
+```python
+class HassanRasool:
+    def __init__(self):
+        self.role         = "AI/ML Engineer & Full Stack Developer"
+        self.location     = "Sahiwal, Pakistan"
+        self.education    = "BS Software Engineering @ COMSATS University Islamabad (CGPA 3.66/4.00)"
+        self.focus        = ["Computer Vision", "Deep Learning", "NLP", "Generative AI"]
+        self.stack        = ["Python", "TensorFlow", "PyTorch", "Django", "React"]
+        self.currently    = "Building real-time AI systems that go from research to production"
+
+    def philosophy(self):
+        return "Ship AI that people can actually feel — not just benchmark."
+```
+
+I'm an **AI/ML Engineer** with hands-on experience shipping real-time computer vision systems and NLP-driven applications, backed by solid full-stack engineering in **Django** and **React**. My favorite problems live at the intersection of *"does the model work?"* and *"does the product feel good to use?"* — from a live-webcam posture-correction system to a generative storytelling engine.
+
+I lead technical coordination for a university developer community (**MLSA COMSATS**), and I've championed AI/data-science adoption as a **Campus Ambassador for DataSeekho**. Currently sharpening my focus on **LLM applications, AI agents, and retrieval-augmented generation** — with the goal of building AI products end-to-end, from model to deployed interface.
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI / Machine Learning**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+**Full Stack Development**
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**Data, Styling & Tools**
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
 <table>
 <tr>
-<td>
-<a href="https://github.com/Hassanspace/Hassanspace">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassanspace&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="hassan's GitHub Stats" />
+<td width="50%" valign="top">
+
+### 🏋️ AI Fitness Trainer
+**Core Project · Computer Vision + Deep Learning**
+
+Real-time system that analyzes live webcam input to evaluate gym exercise posture and deliver instant corrective feedback.
+
+**Stack:** `Python` `TensorFlow` `PyTorch` `OpenCV`
+
+**Highlights**
+- Real-time pose detection & classification pipeline
+- Live video stream processing, not batch inference
+- End-to-end system: capture → model → user feedback
+
+[![Demo](https://img.shields.io/badge/Demo-Coming_Soon-4A7DBD?style=flat-square)](#) [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hassanspace)
+
 </td>
-<td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanspace&theme=highcontrast&layout=compact" />
-  </a>
+<td width="50%" valign="top">
+
+### 📚 SYNAP STUDY
+**Final Year Project · AI Academic Platform**
+
+AI-powered academic platform combining chat moderation, smart learning assistance, and ML-based features for students.
+
+**Stack:** `React` `Django` `Python` `ML Modules`
+
+**Highlights**
+- Full-stack platform integrating ML into daily academic workflows
+- Chat moderation system built for a live student audience
+- Smart learning-assistance feature layer
+
+[![Demo](https://img.shields.io/badge/Demo-Coming_Soon-4A7DBD?style=flat-square)](#) [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hassanspace)
+
 </td>
 </tr>
-
 <tr>
-<td>
-            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hassanspace"/>
+<td width="50%" valign="top">
+
+### 📖 AI StoryBook Generator
+**NLP + Generative AI System**
+
+Generates fully personalized storybooks from user-provided characters, themes, and story ideas — output as formatted, downloadable PDFs.
+
+**Stack:** `Python` `NLP` `Generative AI`
+
+**Highlights**
+- NLP pipeline structuring raw ideas into coherent narratives
+- Dynamic PDF generation with formatted layouts
+- Personalization at the core of every output
+
+[![Demo](https://img.shields.io/badge/Demo-Coming_Soon-4A7DBD?style=flat-square)](#) [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hassanspace)
+
 </td>
-<td>
-            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassanspace"/>
+<td width="50%" valign="top">
+
+### 🎬 Streaming Website
+**AI Recommendation System**
+
+A Netflix-style streaming platform with full authentication and an AI-based recommendation engine driving content discovery.
+
+**Stack:** `React` `Django` `AI Recommendations`
+
+**Highlights**
+- End-to-end auth flow and content delivery
+- Recommendation engine personalizing user experience
+- Production-style full-stack architecture
+
+[![Demo](https://img.shields.io/badge/Demo-Coming_Soon-4A7DBD?style=flat-square)](#) [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hassanspace)
+
 </td>
 </tr>
-
 <tr>
-<tr>
-        <th colspan="7"><a href="https://github.com/Hassanspace/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=mailvia%20rasoolhassan027@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&size=22"></a></th>
-      </tr>
-<td align="center">
+<td width="50%" valign="top">
 
+### 🏛️ Architecture Portfolio Website
+**Brand-Driven Web Platform (Istyleo)**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassanspace&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+A dual-audience architecture portfolio site built around a full brand system — typography, color, and routing designed separately for B2B firms and B2C homeowners.
 
+**Stack:** `Next.js` `Tailwind CSS` `Framer Motion`
+
+**Highlights**
+- Dual-audience UX strategy and information architecture
+- Custom type pairing and color system built for brand identity
+- Motion-driven, premium front-end experience
+
+[![Demo](https://img.shields.io/badge/Demo-Coming_Soon-4A7DBD?style=flat-square)](#) [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hassanspace)
 
 </td>
-<td align="center">
-<p align="center">
-</p>
-            <img align="right" alt="Developer hassan" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif" width="350" height="190" />
+<td width="50%" valign="top">
+
+### 🤖 WALL-E Robot
+**AI + Hardware System**
+
+Arduino-based autonomous robot with obstacle detection and line-following capabilities using sensor-driven logic.
+
+**Stack:** `Arduino` `C++` `Embedded Sensors`
+
+**Highlights**
+- Autonomous navigation via real-time sensor input
+- Obstacle detection and avoidance logic
+- Bridges software AI logic with physical hardware
+
+[![Demo](https://img.shields.io/badge/Demo-Coming_Soon-4A7DBD?style=flat-square)](#) [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hassanspace)
+
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hassanspace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A7DBD&icon_color=4A7DBD&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassanspace&theme=tokyonight&hide_border=true&background=0D1117&ring=4A7DBD&fire=4A7DBD&currStreakLabel=4A7DBD"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hassanspace&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A7DBD&line=4A7DBD&point=c9d1d9"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanspace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A7DBD&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hassanspace&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/Hassanspace)
+
+</div>
+
+<br/>
+
+## 🎯 Currently Building
+
+<div align="center">
+
+| Focus Area | Description |
+|---|---|
+| 🤖 **AI Agents** | Exploring autonomous, tool-using agent architectures |
+| 🧩 **LLM Applications** | Building practical products on top of large language models |
+| 👁️ **Computer Vision Systems** | Extending real-time CV work beyond fitness into new domains |
+| 🌐 **Full Stack AI Products** | Shipping complete products — model, backend, and interface together |
+
+</div>
+
+<br/>
+
+## 🎓 2026 Goals
+
+- [ ] Learn **LangChain** and agentic orchestration frameworks
+- [ ] Master **RAG (Retrieval-Augmented Generation)** architectures
+- [ ] Deploy production AI systems end-to-end (not just notebooks)
+- [ ] Contribute to open-source **AI/ML** repositories
+- [ ] Land a full-time **AI Engineer** role at a team building real products
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🎯 | Achievement |
+|---|---|
+| 🎓 | **3.66/4.00 CGPA** — BS Software Engineering, COMSATS University Islamabad |
+| 🧠 | Built a **real-time computer vision system** from live video to user feedback |
+| 🛠️ | Shipped **5+ end-to-end AI & full-stack projects**, from CV to NLP to hardware |
+| 👥 | **Management Lead** at MLSA COMSATS — leading student-driven dev initiatives |
+| 📣 | **Campus Ambassador** at DataSeekho — driving AI/data science adoption |
+| 💼 | Professional experience as a **Web Developer** at Epicsols (Django + React) |
+| 📜 | Certified in AI, Data Science, SQL, and Web Fundamentals (Coursera, DataCamp, Udemy) |
+
+</div>
+
+<br/>
+
+## ⚡ Fun Facts
+
+- 🎥 I taught a webcam to count my push-ups more honestly than I count them myself.
+- 🤖 My first "AI system" was a robot that avoided walls before I fully avoided bugs in my own code.
+- 📖 I've built an AI that writes stories — turns out debugging narrative logic isn't that different from debugging model logic.
+- 🧭 I switch fluently between model weights and pixel-perfect UI — and enjoy both equally.
+
+<br/>
+
+<div align="center">
+
+### 💬
+
+> *"The best AI systems aren't the ones that score highest on a benchmark —*
+> *they're the ones someone actually trusts enough to use."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A7DBD,100:1F3864&height=150&section=footer"/>
+
+**Thanks for stopping by — let's build something intelligent together.**
+
+</div>
